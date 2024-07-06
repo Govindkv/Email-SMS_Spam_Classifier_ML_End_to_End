@@ -1,4 +1,6 @@
 streamlit==1.36.0
 nltk==3.8.1
-Pillow==10.4.9
-scikit-learn==3.5.0
+Pillow==8.4.9
+scikit-learn==1.5.1
+numpy
+pandas
